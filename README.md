@@ -19,7 +19,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📈 GitHub Stats
 
-[![Jeron's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeronOkkers)](https://github.com/JeronOkkers/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/overview.svg#gh-dark-mode-only)]
+![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## 📫 How to Reach Me
 
