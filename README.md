@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 How to Reach Me
 
-- **Email:** jeron.okkers@example.com
-- **LinkedIn:** [linkedin.com/in/jeronokkers](https://linkedin.com/in/jeronokkers)
+- **Email:** jeronokkers7@gmail.com
+- **LinkedIn:** [linkedin.com/in/jeronokkers](https://www.linkedin.com/in/jeron-okkers-9396b62b0/)
 - **Instagram:** [instagram.com/jeronokkers](https://instagram.com/jeronokkers)
 
 ## 📂 Projects
