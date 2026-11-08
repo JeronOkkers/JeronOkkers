@@ -1,46 +1,31 @@
-# Hi there, I'm Jeron Okkers! 👋
+# Hi, I'm Jeron Okkers
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies. Here's a bit about me:
+Software developer in Cape Town, South Africa. I'm studying toward a **BSc in Computer Science (Application Development)** at Emeris (formerly Varsity College) while working in a hybrid warehouse operations / IT support role, where I'm the Granite WMS superuser for a distribution centre.
 
-## 🚀 About Me
+My day job keeps me close to real systems: I write SQL against a production WMS, build process changes for picking, packing and replenishment, and look after the floor's network and scanners. Outside work I build full-stack web apps.
 
-- 💻 I specialize in full-stack web development, with a focus on JavaScript, Python, and Java.
-- 🌱 I’m currently learning more about cloud computing and AI/ML.
-- 💼 I'm open to freelance opportunities and collaborations on exciting projects.
-- 🎓 I hold a degree in Computer Science and have experience working in both startups and large corporations.
-- 📚 I'm an avid reader and love keeping up with the latest trends in technology.
+## What I work with
 
-## 🛠️ Technologies & Tools
+- **Languages:** C#, Java, Python, TypeScript / JavaScript, SQL
+- **Back end:** ASP.NET Core MVC, Entity Framework Core, Node.js
+- **Front end:** React, Next.js, Three.js, React Native
+- **Data:** SQL Server, Sanity CMS
+- **Infra & tools:** Azure, Docker, Vercel, Git
 
-- **Languages:** JavaScript, Python, Java, HTML, CSS, SQL
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, AWS, Azure, Jenkins
+## Featured projects
 
-## 📈 GitHub Stats
+| Project | What it is | Stack |
+|---|---|---|
+| [Portfolio](https://github.com/JeronOkkers/Portfolio) · [live](https://jeronokkers.vercel.app) | My personal site: who I am and what I'm working on | Next.js, Three.js, Vercel |
+| [PDF Timetable Parser](https://github.com/JeronOkkers/PDF_Timetable_parser) | Turns a university PDF timetable into calendar events | Python |
+| [CyberSecurityBot](https://github.com/JeronOkkers/CyberSecurityBot) | Chatbot that teaches cybersecurity awareness | C# |
+| [True Storie](https://github.com/JeronOkkers/NanaBlog) · [live](https://true-storie.vercel.app) | CMS-backed blog | Next.js, Sanity |
 
+## Stats
 
-[![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/overview.svg#gh-dark-mode-only)]
-![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Overview](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/JeronOkkers/github-stats/master/generated/languages.svg)
 
-## 📫 How to Reach Me
+## Contact
 
-- **Email:** jeronokkers7@gmail.com
-- **LinkedIn:** [linkedin.com/in/jeronokkers](https://www.linkedin.com/in/jeron-okkers-9396b62b0/)
-- **Instagram:** [instagram.com/jeronokkers](https://instagram.com/jeronokkers)
-
-## 📂 Projects
-
-Here are some of the projects I'm currently working on or have contributed to:
-
-- **Project A:** A web application for managing tasks and projects.
-- **Project B:** An e-commerce platform with real-time analytics.
-- **Project C:** A machine learning model for predicting stock prices.
-
-Feel free to check out my repositories and contribute if you're interested!
-
----
-
-Thank you for visiting my profile. Let's build something amazing together! 🚀
+[Portfolio](https://jeronokkers.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jeron-okkers-9396b62b0/) · jeronokkers7@gmail.com
